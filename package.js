@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use('jquery', 'client');
-  api.add_files('jquery.parallax.min.js', 'client');
+  api.add_files('jquery.parallax.js', 'client');
 });
 
