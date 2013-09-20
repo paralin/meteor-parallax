@@ -1,0 +1,9 @@
+{
+  "name": "parallax",
+  "description": "Creates 3D parallax effects using mouse cursor or device orientation.",
+  "homepage": "http://wagerfield.github.io/parallax/",
+  "author": "Christian Stewart",
+  "version": "0.0.1",
+  "git": "https://github.com/kidovate/meteor-parallax.git",
+  "packages": {}
+}
