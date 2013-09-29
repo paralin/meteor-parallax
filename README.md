@@ -16,6 +16,8 @@ Getting Started
 
 Example
 ========
+
+You can see a full demo running [here](http://meteorparallax.herokuapp.com/), or you can see the source code [here](https://github.com/kidovate/meteor-parallax-demo).
 ```
 <template name="myParallax">
 <ul id="myParallax">
