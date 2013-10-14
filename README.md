@@ -1,7 +1,5 @@
 Parallax for Meteor
 ===============
-Based on [ParallaxJS](https://github.com/wagerfield/parallax) by Wagerfield.
----
 
 Create 3D parallax effects using mouse cursor or device orientation. This jQuery plugin allows you to transform a normally flat webpage into an interactive and impressive canvas of seemingly 3D elements. 
 
